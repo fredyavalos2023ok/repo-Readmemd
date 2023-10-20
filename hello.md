@@ -79,3 +79,6 @@ A continucación el bloque de código **HTML** :
  :smile:
 
  :+1:
+
+  NOTA: sobre los emojis, con o sin : al inicio o al final igual funciona para github
+ 
